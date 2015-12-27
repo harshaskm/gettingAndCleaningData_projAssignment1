@@ -2,8 +2,7 @@
 Scripts required to get and clean data as suggested in the Project Assignment in Coursera.com
 
 Presumption:
-I suppose a person who will want to use the uploaded scripts would be aware of the project assignment.
-And so would know how to look for and download the original data sets (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+Just for reference, here is where I have downloaded the data from: (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Here is a quick glance at the Assignment tasks:
 1. You should create one R script called run_analysis.R that does the following. 
