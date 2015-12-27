@@ -13,6 +13,6 @@ Here is a quick glance at the Assignment tasks:
 5. Appropriately labels the data set with descriptive variable names. 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-As for step 1, I have created a script and uploaded the same to my repo:
+As for step 1, I have created a script and uploaded the same to my repo: (https://github.com/harshaskm/gettingAndCleaningData_projAssignment1)
 
 Also I have chosen to perform the required activities from Step 2 till 5 in the run_analysis.R script. Request you to please look at the script file to assess the same.
